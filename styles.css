@@ -138,3 +138,6 @@ button[type="submit"] {
   border-radius: 4px;
   cursor: pointer;
 }
+[x-cloak] {
+  display: none !important;
+}
